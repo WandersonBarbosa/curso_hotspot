@@ -7,7 +7,11 @@ import { cn } from "@/lib/utils";
 
 const links = [
   { to: "/", label: "Dashboard" },
+  { to: "/empresa", label: "Empresa" },
+  { to: "/usuarios", label: "Usuários" },
   { to: "/hotspot", label: "Hotspot" },
+  { to: "/integracoes", label: "Integrações" },
+  { to: "/portal-personalizar", label: "Portal público" },
   { to: "/financeiro", label: "Financeiro" },
 ];
 
